@@ -1,0 +1,5 @@
+*.ipynb
+__pycache__
+.vscode
+Images
+CIFAR10.code-workspace
